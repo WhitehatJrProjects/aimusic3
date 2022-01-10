@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Bangers', cursive;
+font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Shizuru', cursive;
+font-family: 'Staatliches', cursive;
+}
+
+.heading
+{
+    font-size: 55px;
+}
+
+.note
+{
+    font-size: 15px;
+}
+.play{
+    font-size: 35px;
+    width: 105px;
+    background-color: grey;
+}
